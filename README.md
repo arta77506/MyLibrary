@@ -5,27 +5,11 @@
 ![SQLite](https://img.shields.io/badge/Database-SQLite-green.svg) 
 ![Status](https://img.shields.io/badge/Project-Production_Ready-brightgreen.svg)
 
----
 *Современное решение для автоматизации библиотек, объединяющее строгий корпоративный стиль и высокую производительность.*
 
 </div>
 
-## 📌 О проекте
-**Nexbib** — это десктопное приложение, разработанное для эффективного учета книг, управления выдачей и аналитики фонда. Проект сфокусирован на **User Experience (UX)**: мы отошли от стандартных серых окон Windows Forms в пользу глубокого, адаптивного интерфейса с использованием GDI+.
-
-## 🚀 Ключевые особенности
-* **Dashboard-архитектура:** Все функции в едином окне без открытия лишних вкладок.
-* **Технологичный UI:** Собственная отрисовка графических элементов, динамическое изменение фона и «умная» подсветка активных зон.
-* **Аналитический блок:** Статистика фонда в реальном времени с визуализацией данных.
-* **Оптимизированный поиск:** Мгновенный поиск по базе данных через выделенный интерфейсный слой.
-
-## 🛠 Технологический стек
-* **Core:** C# .NET Framework
-* **UI/UX:** WinForms, GDI+ Rendering Engine
-* **Database:** SQLite (ADO.NET)
-* **Architecture:** Pattern-based separation of concerns
-
-## 📋 Инструкция по развертыванию
+Инструкция по развертыванию
 1. **Клонирование:** Скачайте репозиторий или склонируйте его: `git clone https://github.com/ВАШ_НИК/Nexbib`
 2. **Сборка:** Откройте файл `Nexbib.sln` в **Visual Studio 2022+**.
 3. **Запуск:** Убедитесь, что выбран режим `Debug` (x86/x64). Нажмите `F5` для запуска.
@@ -33,12 +17,14 @@
 
 ---
 
-## 🎨 Галерея интерфейса
-*(Сюда вставь свои скриншоты)*
+интерфейс
 
-> **Совет:** Чтобы скриншоты выглядели круто, делай их в режиме "без рамок" (в коде мы это настроили) и на красивом фоне рабочего стола.
 
----
+<img width="1192" height="710" alt="image" src="https://github.com/user-attachments/assets/75c9e6cd-89a3-4058-9899-198f6974199d" />
+<img width="1378" height="624" alt="image" src="https://github.com/user-attachments/assets/f586432b-f16a-4005-a1ba-bd02120641c6" />
+<img width="1382" height="685" alt="image" src="https://github.com/user-attachments/assets/3e747869-685c-490f-a08c-8b1f45ebdcf9" />
+<img width="764" height="348" alt="image" src="https://github.com/user-attachments/assets/a805d08e-3ffc-4a43-9ac5-e6ff9b6d6683" />
+<img width="1196" height="434" alt="image" src="https://github.com/user-attachments/assets/fac0049f-f226-4fe7-9d6d-9f077c99ecb3" />
 
 <div align="center">
   <sub>Разработано для образовательных целей и автоматизации библиотечных процессов.</sub>
