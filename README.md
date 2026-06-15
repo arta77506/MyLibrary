@@ -1,6 +1,5 @@
 <div align="center">
 
-# 📚 Nexbib — Professional Library System
 
 ![Nexbib Banner](https://img.shields.io/badge/C%23-Modern_Desktop_App-blue.svg) 
 ![SQLite](https://img.shields.io/badge/Database-SQLite-green.svg) 
